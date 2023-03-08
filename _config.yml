@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:
+  English: Haoxiang Qin, Dr.
+  中文: 秦浩翔, 博士
+description:
+  English: Haoxiang Qin's Homepage
+  中文: 秦浩翔的主页
+index:
+  English:
+  中文: index_cn.html
+
+url: "https://klaette.github.io" # the base hostname & protocol for your site
+github_username:  klaette
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Google Analytics
+google_analytics: UA-140807444-1
